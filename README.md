@@ -1,19 +1,10 @@
-## 🛠️ Tecnologias Utilizadas
-
-- **BigQuery** – Data Warehouse e consultas SQL avançadas
-- **SQL** – Modelagem dimensional (Kimball) e transformação de dados
-- **Looker Studio** / **Power BI** – Criação de dashboards interativos
-- **Python** – Análise de dados e automação
-- **Pandas** – Manipulação de dados
-- **Git** – Controle de versão
-
 ## 🛠️ Tecnologias utilizadas
 
 # Linguagens & Bibliotecas
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://shields.io)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 # Banco de Dados & Ferramentas SQL
